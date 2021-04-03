@@ -1,0 +1,89 @@
+html {
+height: 100%;
+}
+body {
+    height: 100%;
+ display: flex;
+ justify-content: content;
+ align-items: center;
+ background: #ef32d9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #89fffd, #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #89fffd, #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.txt {
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 150%;
+    /* background-color: rgb(21, 123, 170); */
+    margin: 0 auto;
+    border: 5px solid rgb(44, 41, 224);
+    
+}
+.hey {
+margin: 0;
+/* background-color: skyblue; */
+color: rgb(25, 0, 255);
+font-size: 65px;
+border-radius: 5px;
+padding: 10px;
+text-align: center;
+
+}
+
+
+
+h1{
+    padding: 15px;
+    align-items: center;
+    height: 100px;
+    font-style: italic;
+    text-align: right;
+    text-decoration: double;
+    text-shadow: 0mm;
+text-decoration-color: red;
+color: #0c10e2;
+}
+h2{
+    text-align: center;
+    color: #0c10e2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
